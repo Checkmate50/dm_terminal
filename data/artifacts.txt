@@ -1,0 +1,271 @@
+Detachable Ring	10	1	n	Ring	n
+Brooch of Shielding	200	1	y	Wondrous	156
+Driftglobe	100	1	n	Wondrous	166
+Dust of Disappearance	150	1	n	Wondrous	166
+Dust of Dryness	200	1	n	Wondrous	166
+Gloves of Swimming and Climbing	200	1	y	Wondrous	172
+Gloves of Thievery	400	1	n	Wondrous	172
+Medallion of Thoughts	250	1	y	Wondrous	181
+Periapt of Health	150	1	n	Wondrous	184
+Pipes of the Sewers	200	1	y	Wondrous	185
+Quiver of Ehlonna	100	1	n	Wondrous	189
+Ring of Swimming	100	1	n	Ring	193
+Rope of Climbing	200	1	n	Wondrous	197
+Sending Stones	150	1	n	Wondrous	199
+Wind Fan	100	1	n	Wondrous	213
+Microlith	300	3	n	Wondrous	n
+Spiked Ring	500	3	n	Ring	n
+Poor Detachable Wings	400	3	n	Wondrous	n
+Ammunition +1	100	3	n	Weapon	150
+Bag of Holding	600	3	n	Wondrous	153
+Bag of Tricks	500	3	n	Wondrous	154
+Amulet Against Detection	400	3	y	Wondrous	150
+Boots of Elvenkind	750	3	n	Wondrous	155
+Boots of Striding and Springing	300	3	y	Wondrous	156
+Boots of the Winterlands	500	3	y	Wondrous	156
+Bracers of Archery	500	3	y	Wondrous	156
+Broom of Flying	500	3	n	Wondrous	156
+Cap of Water Breathing	500	3	n	Wondrous	157
+Circlet of Blasting	500	3	n	Wondrous	158
+Cloak of Elvenkind	750	3	y	Wondrous	158
+Cloak of Protection	750	3	y	Wondrous	159
+Cloak of the Manta Ray	500	3	n	Wondrous	159
+Decanter of Endless Water	500	3	n	Wondrous	161
+Deck of Illusions	750	3	n	Wondrous	161
+Dust of Sneezing and Choking	400	3	n	Wondrous	166
+Elemental Gem	750	3	n	Wondrous	167
+Elemental Gem	750	3	n	Wondrous	167
+Eversmoking Bottle	400	3	n	Wondrous	168
+Eyes of Charming	750	3	y	Wondrous	168
+Eyes of the Eagle	500	3	y	Wondrous	168
+Silver Raven Figurine	500	3	n	Wondrous	170
+Gauntlets of Ogre Power	750	3	y	Wondrous	171
+Gem of Bightness	500	3	n	Wondrous	171
+Gloves of Missile Snaring	750	3	y	Wondrous	172
+Goggles of night	500	3	n	Wondrous	172
+Hat of Disguise	500	3	y	Wondrous	173
+Headband of Intellect	750	3	y	Wondrous	173
+Helm of Comprehending Languages	750	3	n	Wondrous	173
+Helm of Telepathy	500	3	y	Wondrous	174
+Immovable Rod	500	3	n	Wondrous	175
+Uncommon Instrument of Bards	750	3	y	Wondrous	176
+Keoghtom's Ointment	750	3	n	Wondrous	179
+Lantern of Revealing	400	3	n	Wondrous	179
+Necklace of Adaptation	500	3	y	Wondrous	182
+Pearl of Power	500	3	y	Wondrous	184
+Pipes of Haunting	750	3	n	Wondrous	185
+Ring of Jumping	500	3	y	Ring	191
+Ring of Mind Shielding	750	3	y	Ring	191
+Ring of Warmth	750	3	y	Ring	193
+Ring of Water Walking	500	3	n	Ring	193
+Robe of Useful Items	750	3	n	Wondrous	195
+Saddle of the Cavalier	500	3	n	Wondrous	199
+Sentinel Shield	750	3	n	Armor	199
+Shield +1	500	3	n	Armor	200
+Slippers of Spider Climbing	750	3	y	Wondrous	200
+Staff of the Python	750	3	y	Staff	204
+Stone of Good Luck	750	3	y	Wondrous	205
+Sword of Vengeance	750	3	y	Weapon	206
+Trident of Fish Command	600	3	y	Weapon	209
+Wand of Magic Missiles	750	3	y	Wand	211
+Wand of Secrets	600	3	y	Wand	211
+Wand of the War Mage +1	750	3	y	Wand	212
+Wand of Web	700	3	y	Wand	212
+Weapon of Warning	800	3	y	Weapon	213
+Alchemy Cup	1,000	5	n	Wondrous	150
+Armor +1	3,000	5	n	Armor	152
+Arrow-Catching Shield	4,000	5	y	Armor	152
+Berserker Axe	2,000	5	y	Weapon	155
+Boots of Speed	2,000	5	y	Wondrous	155
+Bracers of Defense	1,000	5	y	Wondrous	156
+Cloak of the Bat	1,000	5	y	Wondrous	159
+Helm of Teleportation	1,000	5	y	Wondrous	174
+Heward's Handy Haversack	1,500	5	n	Wondrous	174
+Horseshoes of speed	1,500	5	n	Wondrous	175
+Javelin of Lightning	1,500	5	n	Weapon	178
+Mariner's Armor	2,000	5	n	Armor	181
+Pariapt of Proof Against Poison	1,000	5	n	Wondrous	184
+Periapt of Wound Closures	1,500	5	y	Wondrous	184
+Portable Hole	1,500	5	n	Wondrous	185
+Quaal's Feather Token	1,000	5	n	Wondrous	188
+Ring of Animal Influence	1,500	5	n	Ring	189
+Ring of Protection	1,500	5	y	Ring	191
+Ring of Resistance	1,000	5	y	Ring	192
+Ring of X-Ray Vision	1,500	5	y	Ring	193
+Rod of the Pact Keeper +1	1,500	5	y	Rod	197
+Rope of Entanglement	1,000	5	n	Wondrous	197
+Scroll of Protection	1,000	5	n	Scroll	199
+Staff of the Adder	1,000	5	y	Staff	203
+Vicious Weapon	1,500	5	n	Weapon	209
+Wand of Enemy Detection	1,000	5	y	Wand	210
+Wand of Magic Detection	1,000	5	y	Wand	211
+Weapon +1	1,000	5	n	Weapon	213
+Adamantine Armor	3,000	7	n	Armor	150
+Ammunition +2	400	7	n	Weapon	150
+Amulet of Health	4,000	7	y	Wondrous	150
+Armor of Resistance	5,000	7	y	Armor	152
+Armor of Vulnerability	5,000	7	y	Armor	152
+Bag of Beans	2,000	7	n	Wondrous	152
+Bead of Force	1,000	7	n	Wondrous	154
+Belt of Giant Strength I	4,000	7	y	Wondrous	155
+Boots of Levitation	3,000	7	y	Wondrous	155
+Cape of the Mountebank	3,000	7	n	Wondrous	157
+Chime of Opening	2,000	7	n	Wondrous	158
+Dagger of Venom	2,500	7	n	Weapon	161
+Dimensional Shackles	2,000	7	n	Wondrous	165
+Dragon Slayer	3,000	7	n	Weapon	166
+Figurine of Wondrous Power	3,000	7	n	Wondrous	169
+Gem of Seeing	2,500	7	y	Wondrous	172
+Giant Slayer	3,000	7	n	Wondrous	172
+Rare Instrument of Bards	3,500	7	y	Wondrous	176
+Iron Bands of Bilarro	3,000	7	n	Wondrous	177
+Mace of Terror	3,000	7	y	Weapon	180
+Mantle of Spell Resistance	3,500	7	y	Wondrous	180
+Mithral Armor	3,000	7	n	Armor	182
+Ring of Feather Falling	2,500	7	y	Ring	191
+Ring of Free Action	2,500	7	y	Ring	191
+Robe of Eyes	3,500	7	y	Wondrous	193
+Shield +2	3,000	7	n	Armor	200
+Shield of Missile Attraction	3,000	7	y	Armor	200
+Staff of Swarming Insects	3,000	7	y	Staff	203
+Staff of Withering	3,000	7	y	Staff	205
+Sword of Life Stealing	2,000	7	y	Weapon	206
+Sword of Sharpness	2,500	7	y	Weapon	206
+Sword of Wounding	3,000	7	y	Weapon	207
+Wand of Binding	2,500	7	y	Wand	209
+Wand of Fear	3,000	7	y	Wand	210
+Wand of Paralysis	2,500	7	y	Wand	211
+Wand of Wonder	2,000	7	y	Wand	212
+Detachable Wings	8,000	9	n	Wondrous	n
+Belt of Dwarvenkind	10,000	9	y	Wondrous	155
+Container of Elemental Command	5,000	9	n	Wondrous	156
+Container of Elemental Command	5,000	9	n	Wondrous	156
+Cloak of Displacement	5,000	9	y	Wondrous	158
+Cube of Force	5,000	9	y	Wondrous	159
+Daern's Instant Fortress	5,000	9	n	Wondrous	160
+Elven Chain	5,000	9	n	Armor	168
+Flame Tongue	5,000	9	y	Weapon	170
+Folding Boat	5,000	9	n	Wondrous	170
+Frost Brand	7,500	9	y	Weapon	171
+Glamoured Studded Leather	4,000	9	n	Armor	172
+Horn of Blasting	4,500	9	n	Wondrous	174
+Rare Horn of Valhalla	5,000	9	n	Wondrous	175
+Rare Ioun Stone	5,000	9	y	Wondrous	176
+Rare Ioun Stone	5,000	9	y	Wondrous	176
+Mace of Disruption	5,000	9	y	Weapon	179
+Mace of Smiting	4,500	9	y	Weapon	179
+Necklace of Fireballs	4,500	9	n	Wondrous	182
+Necklace of Prayer Beads	5,500	9	n	Wondrous	182
+Ring of Evasion	5,000	9	y	Ring	191
+Ring of Spell Storing	5,000	9	y	Ring	192
+Ring of the Ram	4,000	9	y	Ring	193
+Rod of the Pact Keeper +2	5,000	9	y	Rod	197
+Rod of Rulership	5,000	9	y	Rod	197
+Staff of Charming	5,000	9	y	Staff	201
+Staff of Healing	5,000	9	y	Staff	202
+Staff of the Woodlands	4,500	9	y	Staff	204
+Sun Blade	5,000	9	y	Weapon	205
+Tentacle Rod	5,000	9	y	Rod	208
+Wand of Fireballs	5,000	9	y	Wand	210
+Wand of Lightning Bolts	5,000	9	y	Wand	211
+Wand of Polymorph	4,000	9	y	Wand	211
+Wand of the War Mage +2	4,500	9	y	Wand	212
+Weapon +2	5,000	9	n	Weapon	213
+Azure Fleece	20,000	11	y	Wondrous	n
+Alchemy Jug	20,000	11	n	Wondrous	150
+Ammunition +3	1,000	11	n	Weapon	150
+Armor +2	20,000	11	n	Armor	152
+Arrow of Slaying	1,000	11	n	Weapon	152
+Bag of Devouring	7,500	11	n	Wondrous	153
+Candle of Invocation	12,500	11	y	Wondrous	157
+Carpet of Flying	8,000	11	n	Wondrous	157
+Crystal Ball	10,000	11	y	Wondrous	159
+Dancing Sword	10,000	11	y	Weapon	161
+Demon Armor	10,000	11	y	Armor	165
+Obsidian Steed Figurine	10,000	11	n	Wondrous	169
+Horseshoes of a Zephyr	6,000	11	n	Wondrous	175
+Mirror of Life Trapping	10,000	11	n	Wondrous	181
+Ring of Telekinesis	10,000	11	y	Ring	193
+Robe of Scintillating Colors	15,000	11	y	Wondrous	194
+Rod of Alertness	15,000	11	y	Rod	196
+Rod of Security	10,000	11	y	Rod	197
+Staff of Thunder and Lightning	10,000	11	y	Staff	204
+True Detachable Wings	20,000	13	n	Wondrous	n
+Amulet of the Planes	40,000	13	y	Wondrous	150
+Animated Shield	30,000	13	y	Armor	151
+Belt of Giant Strength II	20,000	13	y	Wondrous	155
+Cloak of Arachnida	20,000	13	y	Wondrous	158
+Dragon Scale Mail	25,000	13	y	Armor	165
+Dwarven Plate	30,000	13	n	Armor	167
+Bronze Horn of Valhalla	15,000	13	n	Wondrous	175
+Very Rare Instrument of Bards	30,000	13	y	Wondrous	176
+Manual of Bodily Health	20,000	13	n	Wondrous	180
+Manual of Gainful Excersize	20,000	13	n	Wondrous	180
+Manual of Quickness of Action	20,000	13	n	Wondrous	181
+Nolzur's Marvelous Pigments	30,000	13	n	Wondrous	183
+Oathbow	25,000	13	y	Weapon	183
+Ring of Shooting Stars	30,000	13	y	Ring	192
+Rod of the Pact Keeper +3	30,000	13	y	Rod	197
+Scimitar of Speed	30,000	13	y	Weapon	199
+Shield +3	20,000	13	n	Armor	200
+Staff of Fire	30,000	13	y	Staff	201
+Staff of Frost	30,000	13	y	Staff	202
+Staff of Striking	25,000	13	y	Staff	203
+Tome of Clear Thought	20,000	13	n	Wondrous	208
+Tome of Leadership and Influence	20,000	13	n	Wondrous	208
+Tome of Understanding	20,000	13	n	Wondrous	209
+Dwarven Thrower	50,000	15	y	Weapon	167
+Efreeti Bottle	40,000	15	n	Wondrous	167
+Helm of Brilliance	40,000	15	y	Wondrous	173
+Very Rare Ioun Stone	40,000	15	y	Wondrous	176
+Very Rare Ioun Stone	40,000	15	y	Wondrous	176
+Manual of Golems	50,000	15	n	Wondrous	180
+Nine Lives Stealer	50,000	15	y	Weapon	183
+Ring of Regeneration	45,000	15	y	Ring	191
+Robe of Stars	50,000	15	y	Wondrous	194
+Rod of Absorption	45,000	15	y	Rod	195
+Spellguard Shield	50,000	15	y	Armor	201
+Staff of Power	50,000	15	y	Staff	202
+Wand of the War Mage +3	40,000	15	y	Wand	212
+Weapon +3	50,000	15	n	Weapon	213
+Apparatus of Kwalish	100,000	17	n	Wondrous	151
+Armor +3	75,000	17	n	Armor	152
+Armor of Invulnerability	100,000	17	y	Armor	152
+Belt of Giant Strength III	80,000	17	y	Wondrous	155
+Cloak of Invisibility	75,000	17	y	Wondrous	158
+Crystal Ball of Mind Reading	100,000	17	y	Wondrous	159
+Crystal Ball of Telepathy	100,000	17	y	Wondrous	159
+Crystal Ball of True Seeing	100,000	17	y	Wondrous	159
+Defender	75,000	17	y	Weapon	164
+Efreeti Chain	100,000	17	y	Armor	167
+Iron Horn of Valhalla	50,000	17	n	Wondrous	175
+Legendary Instrument of Bards	125,000	17	y	Wondrous	176
+Legendary Ioun Stone	100,000	17	y	Wondrous	176
+Legendary Ioun Stone	100,000	17	y	Wondrous	176
+Iron Flask	75,000	17	n	Wondrous	178
+Luck Blade	100,000	17	y	Weapon	179
+Plate Armor of Etherealness	70,000	17	y	Armor	185
+Ring of Djinni Summoning	100,000	17	y	Ring	190
+Ring of Elemental Command	80,000	17	y	Ring	190
+Ring of Invisibility	80,000	17	y	Ring	191
+Ring of Spell Turning	60,000	17	y	Ring	193
+Rod of Resurrection	80,000	17	y	Rod	197
+Scarab of Protection	75,000	17	y	Wondrous	199
+Sovereign Glue	60,000	17	n	Wondrous	200
+Talisman of the Sphere	100,000	17	y	Wondrous	207
+Universal Solvent	60,000	17	n	Wondrous	209
+Vorpal Sword	100,000	17	y	Weapon	209
+Well of Many Worlds	100,000	17	n	Wondrous	213
+Cubic Gate	200,000	19	n	Wondrous	160
+Deck of Many Things	175,000	19	n	Wondrous	162
+Hammer of Thunderbolts	200,000	19	y	Weapon	173
+Holy Avenger	200,000	19	y	Weapon	174
+Ring of Three Wishes	150,000	19	n	Ring	193
+Robe of the Archmagi	200,000	19	y	Wondrous	194
+Rod of Lordly Might	175,000	19	y	Rod	196
+Sphere of Annihilation	200,000	19	n	Wondrous	201
+Staff of the Magi	175,000	19	y	Staff	203
+Sword of Answering	150,000	19	y	Weapon	206
+Talisman of Pure Good	150,000	19	y	Wondrous	207
+Talisman of Ultimate Evil	150,000	19	y	Wondrous	207
+Tome of the Stilled Tongue	300,000	19	y	Wondrous	208

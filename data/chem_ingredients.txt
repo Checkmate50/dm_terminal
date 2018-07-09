@@ -1,0 +1,138 @@
+Demonic Ooze	N	N	Polymorph	N	N	N	Polymorph	Poison	Darkness	N	N	N	1	Abyss
+Skull Laurel	N	N	Fear	Web	Hair	N	Fear	Web	Hair	N	N	N	1	Abyss
+Demonic Broadleaf	N	N	Darkness	Fear	N	N	Fear	Cold	N	N	N	N	2	Abyss
+Ooprotus	N	N	Depressant	Love	N	N	Depressant	Love	Fear	N	N	N	2	Abyss
+Aespechek	N	N	Wisdom	Force	N	N	Wisdom	Force	N	N	Wisdom	N	3	Abyss
+Edrearon	N	N	Fear	Hallucinogen	Spiked	N	Fear	Hallucinogen	Spiked	N	Spiked	N	3	Abyss
+Ucheed	N	N	Darkness	Fear	Cold	N	Darkness	Cold	Poison	N	Darkness	N	4	Abyss
+Ethradihl	N	N	Temporal	Luck	Change	Force	Temporal	Luck	Polymorph	Force	Temporal	N	5	Abyss
+Shadow Cup	N	N	Darkness	N	N	N	Darkness	Depressant	N	N	N	N	6	Abyss
+Doil	N	N	Water	Love	N	N	Water	Love	Fear	N	N	N	1	Coast
+Fanged Palm	N	N	Spiked	Healing	N	N	Spiked	Grow	Cure Poison	N	N	N	1	Coast
+Aromatic Harlequin	N	N	Tasty	Web	Hallucinogen	N	Tasty	Web	Luck	N	N	N	2	Coast
+Tear Brittlebush	N	N	Sadness	Love	Cold	Wisdom	Sadness	Cold	Wisdom	N	N	N	2	Coast
+Weeping Larch	N	N	Sadness	Water	Force	N	Sadness	Water	N	N	Sadness	N	2	Coast
+Aquatic Belladonna	Water	N	Water	Gate	Illness	N	Water	Gate	Illness	N	Gate	N	3	Coast
+Cliff Shadbush	N	N	Stone	Air	Hard	N	Stone	Air	Hard	Force	Stone	N	3	Coast
+Shy Chaize	N	N	Shrink	Tough	Relaxant	N	Shrink	Tough	Relaxant	N	N	N	3	Coast
+Aquatic Lily	Water	N	Water	Healing	Love	N	Water	Healing	Love	N	Water	N	4	Coast
+Shrine Sage	N	N	Wisdom	Intelligence	N	N	Wisdom	Intelligence	Relaxant	Tiring	Wisdom	N	4	Coast
+Bronze Dragon Scale	Electricity	Water	Electricity	Water	Wisdom	Hard	Electricity	Water	Wisdom	Hard	Electricity	Water	5	Coast
+Shadow Laceflower	Darkness	N	Darkness	Poison	Invisibility	Depressant	Darkness	Poison	Invisibility	Depressant	Darkness	N	5	Coast
+Horned Thimbleweed	N	N	Shrink	N	N	N	Spiked	Shrink	Fire	N	N	N	1	Desert
+Scented Pokeroot	N	N	Tasty	Spiked	Enrage	N	Tasty	Spiked	Enrage	Change	Spiked	N	1	Desert
+Taunting Blade	N	N	Enrage	Poison	Tough	N	Enrage	Air	Tough	N	N	N	1	Desert
+Aching Thistle	N	N	Illness	Toxic	Poison	N	Toxic	Poison	Spiked	Love	Toxic	N	2	Desert
+Arina	Cure Poison	N	Cure Poison	Wisdom	Hard	N	Cure Poison	Healing	N	N	Cure Poison	N	2	Desert
+Blight Acacia	N	N	Acid	Tiring	N	N	Acid	Tiring	Sadness	N	Acid	N	2	Desert
+Regal Fieldwood	N	N	Illness	Grow	Hair	N	Illness	Grow	N	N	N	N	2	Desert
+Humming Mesquite	N	N	Speed	Enrage	N	N	Noise	Enrage	Explosive	N	Noise	Explosive	3	Desert
+Plague Seet	N	N	Illness	Stone	Hallucinogen	N	Illness	Stone	Poison	N	Illness	N	3	Desert
+Toxic Fennel	Toxic	N	Tasty	Toxic	Temporal	N	Tasty	Toxic	Shrink	N	Toxic	N	3	Desert
+Cold Juniper	Cold	N	Cold	N	N	N	Cold	Spiked	Tough	Healing	Cold	N	4	Desert
+Daydream Inkberries	N	N	Hallucinogen	Gate	N	N	Hallucinogen	Gate	Love	N	Hallucinogen	N	4	Desert
+Lianna	N	N	Fire	Air	Stone	Hallucinogen	Fire	Air	Stone	Hallucinogen	Gate	Hallucinogen	4	Desert
+Skeletal Beobab	N	N	Change	Cold	Fear	N	Hallucinogen	Fear	Cold	Hard	Fear	N	4	Desert
+Blue Dragon Scale	Electricity	N	Electricity	Air	Hard	Grow	Electricity	Air	Hard	Grow	Electricity	N	5	Desert
+Brass Dragon Scale	Relaxant	N	Fireball	Tiring	Relaxant	Fire	Fireball	Tiring	Relaxant	Fire	Relaxant	Tiring	5	Desert
+Pheonix Juniper	Fire	N	Fire	Healing	Fireball	Change	Fire	Healing	Fireball	Temporal	Fire	Temporal	5	Desert
+Brack	N	N	Darkness	Tough	Water	N	Darkness	Poison	Water	N	N	N	1	Forest
+Coughing Pine	N	N	Illness	Force	N	N	Noise	Illness	Force	N	Noise	N	1	Forest
+Kross	N	N	Enrage	Fire	Sadness	Force	Enrage	Force	Fireball	N	N	N	1	Forest
+Monk's Thyme	Relaxant	N	Relaxant	Noise	Speed	N	Relaxant	Speed	Fireball	N	Relaxant	N	1	Forest
+Twisted Clover	N	N	Healing	Toxic	Tasty	N	Healing	Toxic	Fire	Gate	N	N	2	Forest
+Webore	Web	N	Web	Invisibility	Polymorph	N	Web	Polymorph	N	N	Web	N	1	Forest
+Wolf Gier	N	N	Polymorph	Poison	Hair	N	Polymorph	Poison	Hair	N	Hair	N	1	Forest
+Bleak Ragweed	N	N	Sadness	Illness	Darkness	N	Sadness	Darkness	Depressant	N	N	N	1	Forest
+Inow	N	N	Polymorph	Cold	Tiring	N	Cold	Tiring	N	N	N	N	2	Forest
+Leafy Stickweed	N	N	Web	Grow	Electricity	N	Web	Grow	Electricity	N	N	N	2	Forest
+Phrirch	N	N	Speed	Change	N	N	Speed	Shrink	Joy	N	Speed	N	2	Forest
+Spiky Poplar	N	N	Spiked	Toxic	N	N	Spiked	Poison	Speed	N	N	N	2	Forest
+Venomous Nettle	Toxic	N	Spiked	Toxic	Hallucinogen	N	Spiked	Toxic	Hallucinogen	N	N	N	2	Forest
+Weeping Berries	Acid	N	Water	Acid	Sadness	N	Cold	Acid	Sadness	N	Sadness	N	2	Forest
+Yove	N	N	Temporal	Polymorph	Enrage	N	Temporal	Change	Polymorph	N	N	N	2	Forest
+Athanna	N	N	Intelligence	Wisdom	Acid	Change	Intelligence	Acid	Cure Poison	N	Intelligence	N	3	Forest
+Blue Tongue	N	N	Acid	Tiring	N	N	Acid	Wisdom	Grow	N	Wisdom	N	3	Forest
+Dawn Elm	N	N	Light	Explosive	Joy	N	Light	Luck	Explosive	Joy	Light	Joy	3	Forest
+Fire Moss	N	N	Fire	Fireball	N	N	Fire	Fireball	Enrage	N	Fire	N	3	Forest
+Imperial Aspen	N	N	Change	Wisdom	Grow	N	Wisdom	Fireball	Grow	N	Grow	N	3	Forest
+Lion Willow	N	N	Force	Joy	N	N	Force	Joy	Explosive	N	Force	N	3	Forest
+Red Birch	N	N	Fire	Fireball	Joy	Love	Fire	Fireball	Love	N	Fireball	N	3	Forest
+Strifer	N	N	Enrage	Fireball	Speed	Force	Enrage	Fire	Noise	Speed	Enrage	N	3	Forest
+Ancestor Moss	Intelligence	N	Intelligence	Wisdom	Tiring	Change	Intelligence	Tiring	Cold	N	Intelligence	Tiring	4	Forest
+Blessed Laceflower	Luck	N	Luck	Wisdom	Light	Hair	Wisdom	Luck	Illness	Hair	Luck	Hair	4	Forest
+Dire Mangrove	N	N	Poison	Acid	Depressant	N	Explosive	Acid	Sadness	Depressant	Acid	Explosive	4	Forest
+Ghost Cypress	Invisibility	N	Invisibility	Air	Sadness	Gate	Invisibility	Electricity	Air	Sadness	Invisibility	Air	4	Forest
+Sanguine Balsa	N	N	Intelligence	Relaxant	Love	Cure Poison	Relaxant	Love	Cure Poison	N	Cure Poison	N	4	Forest
+Shy Thistle	N	N	Shrink	Toxic	Hair	N	Shrink	Invisibility	Hair	Change	Shrink	Hair	4	Forest
+Sleeping Lily	Tiring	N	Tiring	Healing	Electricity	N	Tiring	Healing	Intelligence	N	Tiring	N	4	Forest
+Abyssal Hemlock	Poison	Toxic	Darkness	Poison	Toxic	Gate	Darkness	Poison	Toxic	Gate	Poison	Toxic	5	Forest
+Golden Broadleaf	Luck	N	Luck	Light	Joy	Love	Luck	Light	Grow	Joy	Luck	Light	5	Forest
+Green Dragon Scale	Poison	Water	Poison	Water	Intelligence	Fear	Poison	Water	Intelligence	Fear	Poison	Fear	5	Forest
+Devil's Cane	N	N	Fear	Fire	N	N	Grow	Fire	N	N	N	N	1	Hills
+Silver Collard	N	N	Invisibility	Light	N	N	Invisibility	Change	N	N	N	N	1	Hills
+Brel	N	N	Tough	Cure Poison	Stone	Noise	Tough	Cure Poison	Illness	N	N	N	2	Hills
+Imp Ragweed	Fire	N	Fire	Air	N	N	Fire	Fireball	Air	Noise	Noise	N	2	Hills
+Dim Eofon	N	N	Depressant	Noise	Luck	N	Depressant	Luck	N	N	Depressant	N	3	Hills
+Grand Cassava	N	N	Grow	Poison	Healing	N	Grow	Poison	Healing	N	Poison	Healing	3	Hills
+Nightleaf	Darkness	Poison	Darkness	Poison	Toxic	Sadness	Darkness	Poison	Cold	N	Poison	N	3	Hills
+Noxious Tassel	N	N	Toxic	Illness	N	N	Toxic	Illness	N	N	Illness	N	3	Hills
+Smokeweed	Explosive	N	Explosive	Toxic	Force	N	Explosive	Fireball	Toxic	N	Explosive	Noise	3	Hills
+Exoo	N	N	Speed	Tasty	Love	Temporal	Speed	Tasty	Healing	Temporal	Speed	N	4	Hills
+Frost Brittlebush	N	N	Cold	Hard	N	N	Cold	Hard	N	N	Hard	N	4	Hills
+Hidden Collard	N	N	Stone	Hard	Tiring	N	Stone	Hard	Shrink	Invisibility	Stone	N	4	Hills
+Shocking Buckthorn	Electricity	N	Electricity	Force	N	N	Electricity	Spiked	Force	N	Electricity	N	4	Hills
+Sleeping Skunkweed	N	N	Tiring	Relaxant	Stone	N	Tiring	Relaxant	N	N	Tiring	N	4	Hills
+Copper Dragon Scale	Acid	Stone	Acid	Stone	Joy	Change	Acid	Stone	Joy	Change	Acid	Joy	5	Hills
+Moonberries	Air	N	Air	Darkness	Healing	Love	Air	Invisibility	Healing	Love	Air	N	5	Hills
+Red Dragon Scale	Fire	Fireball	Fire	Fireball	Tough	Grow	Fireball	Fire	Tough	Grow	Fire	Fireball	5	Hills
+Beer	Depressant	N	Depressant	N	N	N	N	N	N	N	N	N	1	Miscellaneous
+Charcoal	N	N	Explosive	Fire	N	N	Explosive	Fire	N	N	Explosive	Fire	1	Miscellaneous
+Ice	Cold	N	Cold	Air	N	N	Cold	Invisibility	N	N	N	N	1	Miscellaneous
+Yeast	N	N	Air	Fire	N	N	Air	N	N	N	N	N	1	Miscellaneous
+Fermented Beet	Depressant	N	Depressant	N	N	N	Depressant	N	N	N	N	N	3	Miscellaneous
+Jetch Scale	Acid	N	Acid	Darkness	N	N	Acid	Darkness	N	N	Acid	N	6	Miscellaneous
+Microlith	Shrink	N	Shrink	Light	N	N	Shrink	Invisibility	Light	N	Shrink	Invisibility	6	Miscellaneous
+Dwarf Needle	N	N	Shrink	Tough	Hard	N	Shrink	Tough	Stone	N	Tough	N	1	Mountains
+Hammer Cane	N	N	Force	Enrage	Change	N	Force	Noise	Explosive	N	Force	Noise	1	Mountains
+Pest Rockfern	N	N	Shrink	Stone	Hard	N	Stone	Hard	Tiring	Noise	Stone	N	1	Mountains
+Frost Mint	Tasty	N	Cold	Tasty	N	N	Cold	Tasty	N	N	Tasty	N	2	Mountains
+Shoil	N	N	Cold	Hair	Grow	N	Cold	Hair	Grow	N	Grow	N	2	Mountains
+Apline	N	N	Air	Tough	Electricity	N	Air	Healing	Electricity	Sadness	Air	N	3	Mountains
+Cave Silkweed	N	N	Stone	Web	Intelligence	N	Stone	Web	Intelligence	Relaxant	Web	N	3	Mountains
+Tundra Goldenglow	N	N	Light	Luck	Electricity	Love	Light	Luck	Electricity	N	Light	N	3	Mountains
+Glacier Alder	Cold	N	Cold	Hard	Hair	N	Cold	Electricity	Hair	Hard	Cold	N	4	Mountains
+Glacier Bloom	N	N	Cold	Air	Light	Noise	Cold	Air	Web	N	Cold	N	4	Mountains
+Silver Dragon Scale	Cold	Air	Cold	Air	Light	Tough	Cold	Air	Light	Tough	Cold	Air	5	Mountains
+Usneaf	N	N	Hard	Stone	Tough	Noise	Hard	Stone	Tough	N	Hard	Stone	5	Mountains
+White Dragon Scale	Cold	Air	Cold	Tough	Air	Toxic	Cold	Tough	Air	Toxic	Cold	Tough	5	Mountains
+Barley	Tough	N	Tough	Explosive	N	N	Tough	Stone	Hard	N	N	N	1	Plains
+Beet	N	N	Cure Poison	Speed	N	N	Love	Speed	N	N	N	N	1	Plains
+Fieldcress	N	N	Air	Fire	Light	Web	Air	Fire	Web	N	N	N	1	Plains
+Wheat	N	N	Fire	Healing	N	N	Fire	Light	N	N	N	N	1	Plains
+Chotus	N	N	Spiked	Explosive	Tough	Hard	Spiked	Explosive	Hard	N	Spiked	N	2	Plains
+Mournberries	Poison	N	Toxic	Poison	Tough	N	Toxic	Poison	Darkness	N	N	N	2	Plains
+Orcish Haldi	Enrage	N	Enrage	Tough	Toxic	N	Enrage	Explosive	Illness	N	Enrage	N	2	Plains
+Red Blade	N	N	Fire	Enrage	N	N	Fire	Enrage	Fireball	N	Fire	N	2	Plains
+Vlattorn	N	N	Shrink	Speed	N	N	Shrink	Speed	Relaxant	N	Shrink	N	2	Plains
+Creeping Fig	Hallucinogen	N	Hallucinogen	Speed	N	N	Hallucinogen	Web	N	N	Hallucinogen	N	3	Plains
+Dragonweed	Fireball	N	Fire	Fireball	N	N	Fire	Fireball	Enrage	N	Fireball	N	3	Plains
+Otroil	N	N	Cure Poison	Fire	Poison	N	Cure Poison	Poison	Fireball	N	Cure Poison	N	3	Plains
+Gryphon's Wing	N	N	Air	Polymorph	N	N	Air	Tough	Enrage	N	Air	N	4	Plains
+Lunead	N	N	Darkness	Poison	Sadness	N	Darkness	Poison	Hallucinogen	Gate	Darkness	N	4	Plains
+Pink Groundberries	Healing	N	Healing	Acid	Cold	N	Healing	Acid	Cure Poison	N	Healing	N	4	Plains
+Gold Dragon Scale	Fireball	Grow	Fireball	Polymorph	Grow	Tough	Fireball	Polymorph	Grow	Tough	Fireball	Polymorph	5	Plains
+Gryphon's Claw	N	N	Polymorph	Air	N	N	Cure Poison	Air	N	N	N	N	5	Plains
+Silverberries	Air	N	Air	Invisibility	Cold	N	Air	Invisibility	Poison	N	Invisibility	N	5	Plains
+Crawling Lily	N	N	Hallucinogen	Speed	N	N	Hallucinogen	Speed	Water	N	N	N	1	Swamp
+Tangled Mangrove	N	N	Web	Water	N	N	Web	Water	Luck	N	Web	N	1	Swamp
+Vomead	N	N	Illness	Tiring	N	N	Illness	Tiring	N	N	N	N	1	Swamp
+Fragrant Deadnettle	N	N	Tasty	Poison	N	N	Tasty	Poison	N	N	Tasty	N	2	Swamp
+Grave Wood	N	N	Toxic	Depressant	Sadness	Change	Toxic	Depressant	Stone	Sadness	Sadness	N	2	Swamp
+Dusk Aspen	N	N	Darkness	Love	Noise	N	Darkness	Love	Light	N	Darkness	N	3	Swamp
+Nightmare Laurel	N	N	Fear	Hallucinogen	Polymorph	Web	Fear	Hallucinogen	Polymorph	N	Fear	N	3	Swamp
+Spitfire Tulsi	Fireball	N	Fire	Fireball	N	N	Fire	Fireball	Force	N	Fire	N	3	Swamp
+Srettle	N	N	Speed	Intelligence	Acid	N	Speed	Intelligence	N	N	Speed	N	3	Swamp
+Black Dragon Scale	Acid	Darkness	Acid	Darkness	Tough	Water	Acid	Darkness	Tough	Fear	Acid	Darkness	4	Swamp
+Light Mushrooms	Light	N	Light	Noise	N	N	Light	Love	N	N	Light	N	1	Underdark
+Cave Birch	N	N	Stone	Hard	N	N	Stone	Hard	Tough	N	N	N	2	Underdark
